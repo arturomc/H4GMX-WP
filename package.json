@@ -1,0 +1,16 @@
+{
+  "name": "H4GMX-WP",
+  "description": "WP para el evento de Hack4good Mexico",
+  "version": "0.1.0",
+  "homepage": "https://github.com/arturomc/H4GMX-WP",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arturomc/H4GMX-WP.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arturomc/H4GMX-WP/issues"
+  },
+  "devDependencies": {
+  },
+  "keywords": []
+}

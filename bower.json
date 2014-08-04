@@ -1,0 +1,21 @@
+{
+    "name": "hack4goodMX-WP",
+    "version": "0.1.0",
+    "main": "dist/hack4goodMX-WP.min.js",
+    "ignore":[
+        "analytics",
+        "node_modules",
+        "vendor",
+        "test",
+        "docs"
+    ],
+    "dependencies":{
+        "jquery":"latest",
+        "bootstrap":"latest",
+        "font-awesome":"latest",
+        "angular":"latest",
+        "angular-bootstrap":"latest",
+        "angular-mocks":"latest",
+        "angular-ui-router":"latest"
+    }
+}
